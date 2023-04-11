@@ -1,0 +1,10 @@
+D:\Visual Studio расположение\source\repos\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe.config
+D:\Visual Studio расположение\source\repos\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe
+D:\Visual Studio расположение\source\repos\FlyWeight\FlyWeight\bin\Debug\FlyWeight.pdb
+D:\Visual Studio расположение\source\repos\FlyWeight\FlyWeight\obj\Debug\FlyWeight.csproj.AssemblyReference.cache
+D:\Visual Studio расположение\source\repos\FlyWeight\FlyWeight\obj\Debug\FlyWeight.Form1.resources
+D:\Visual Studio расположение\source\repos\FlyWeight\FlyWeight\obj\Debug\FlyWeight.Properties.Resources.resources
+D:\Visual Studio расположение\source\repos\FlyWeight\FlyWeight\obj\Debug\FlyWeight.csproj.GenerateResource.cache
+D:\Visual Studio расположение\source\repos\FlyWeight\FlyWeight\obj\Debug\FlyWeight.csproj.CoreCompileInputs.cache
+D:\Visual Studio расположение\source\repos\FlyWeight\FlyWeight\obj\Debug\FlyWeight.exe
+D:\Visual Studio расположение\source\repos\FlyWeight\FlyWeight\obj\Debug\FlyWeight.pdb
